@@ -3,7 +3,7 @@
 <!--<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />-->
 
 **Happy to see you here!** :star_struck: <br> 
-- I am a 🚀 Technology Enthusiastic. 
+- I am a 🚀 Technology enthusiast. 
 - I'm dealing with ⚡ Web Development. 
 - I work I do this as a small business owner that invest in Startups.💪.  
 
