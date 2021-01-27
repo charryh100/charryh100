@@ -10,15 +10,15 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>-->
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>-->
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+
 <br />
+<br />
+
 ---
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=air3ee&layout=compact)](https://github.com/air3ee/github-readme-stats)-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=air3ee)](https://github.com/air3ee/github-readme-stats)
-
+<br />
 <br />
 
 ---
@@ -30,6 +30,10 @@ Outside of [GitHub](https://github.com/air3ee/), If you’d like to get in touch
 
 
 <p><a href="https://adfiinc.com">🌐 Check out my company website</a></p>
+
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>-->
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>-->
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 
 <!--
 **air3ee/air3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
