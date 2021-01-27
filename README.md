@@ -15,20 +15,17 @@ I am a 🚀 Technology Enthusiastic. I'm dealing with ⚡ web development. I wor
 <br />
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=air3ee&layout=compact)](https://github.com/air3ee/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=air3ee&layout=compact)](https://github.com/air3ee/github-readme-stats)-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=air3ee)](https://github.com/air3ee/github-readme-stats)
-
 <br />
 <br />
-
 ---
 
 Outside of [GitHub](https://github.com/air3ee/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
 
 ![](https://komarev.com/ghpvc/?username=air3ee&color=blue&label=Profile+Views)
-[![Twitter: Harry Chung](https://img.shields.io/twitter/follow/air3ee?style=social)](https://twitter.com/air3ee)
-[![GitHub Harry Chung](https://img.shields.io/github/followers/air3ee?label=follow&style=social)](https://github.com/air3ee)
+[![Twitter: HarryChung](https://img.shields.io/twitter/follow/HarryChung?style=social)](https://twitter.com/air3ee)
+[![GitHub HarryChung](https://img.shields.io/github/followers/HaryChung?label=follow&style=social)](https://github.com/air3ee)
 
 
 <p><a href="https://adfiinc.com">🌐 Check out my company website</a></p>
