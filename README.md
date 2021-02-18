@@ -5,7 +5,7 @@
 **Happy to see you here!** :star_struck: <br> 
 - I am a 🚀 Technology Enthusiast. 
 - I'm dealing with ⚡ Web Development. 
-- I work I do this as an operating owner at ADFIINC, 💪 a B2B marketing company for small businesses.
+- I work I do this as an operating owner at ADFIINC, 💪 a B2B marketing company provide elite products for small businesses.
 
 **Languages and Tools:**  
 
