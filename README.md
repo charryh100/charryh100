@@ -15,18 +15,18 @@
 <br />
 
 ---
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=air3ee&layout=compact)](https://github.com/air3ee/github-readme-stats)-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=air3ee)](https://github.com/air3ee/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amharry&layout=compact)](https://github.com/amharry/github-readme-stats)-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amharry)](https://github.com/amharry/github-readme-stats)
 <br />
 <br />
 
 ---
-Outside of [GitHub](https://github.com/air3ee/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
+Outside of [GitHub](https://github.com/amharry/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
 
 
-![](https://komarev.com/ghpvc/?username=air3ee&color=blue&label=Profile+Views)
-[![Twitter: HarryChung](https://img.shields.io/twitter/follow/air3ee?style=social)](https://twitter.com/air3ee)
-[![GitHub HarryChung](https://img.shields.io/github/followers/air3ee?label=follow&style=social)](https://github.com/air3ee)
+![](https://komarev.com/ghpvc/?username=amharry&color=blue&label=Profile+Views)
+[![Twitter: HarryChung](https://img.shields.io/twitter/follow/amharry_?style=social)](https://twitter.com/amharry_)
+[![GitHub HarryChung](https://img.shields.io/github/followers/amharry?label=follow&style=social)](https://github.com/amharry)
 
 
 <p><a href="https://adfiinc.com">🌐 Check out my company website</a></p>
