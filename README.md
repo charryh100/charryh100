@@ -15,18 +15,18 @@
 <br />
 
 ---
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amharry&layout=compact)](https://github.com/amharry/github-readme-stats)-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amharry)](https://github.com/amharry/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amharry&layout=compact)](https://github.com/charryh100/github-readme-stats)-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charryh100)](https://github.com/charryh100/github-readme-stats)
 <br />
 <br />
 
 ---
-Outside of [GitHub](https://github.com/amharry/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
+Outside of [GitHub](https://github.com/charryh100/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
 
 
-![](https://komarev.com/ghpvc/?username=amharry&color=blue&label=Profile+Views)
-[![Twitter: HarryChung](https://img.shields.io/twitter/follow/amharry_?style=social)](https://twitter.com/amharry_)
-[![GitHub HarryChung](https://img.shields.io/github/followers/amharry?label=follow&style=social)](https://github.com/amharry)
+![](https://komarev.com/ghpvc/?username=charryh100&color=blue&label=Profile+Views)
+[![Twitter: HarryChung](https://img.shields.io/twitter/follow/charryh100?style=social)](https://twitter.com/charryh100)
+[![GitHub HarryChung](https://img.shields.io/github/followers/charryh100?label=follow&style=social)](https://github.com/charryh100)
 
 
 <p><a href="https://adfiinc.com">🌐 Check out my company website</a></p>
@@ -36,7 +36,7 @@ Outside of [GitHub](https://github.com/amharry/), If you’d like to get in touc
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 
 <!--
-**air3ee/air3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**charryh100/charryh100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
