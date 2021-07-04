@@ -15,18 +15,18 @@
 <br />
 
 ---
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungharry&layout=compact)](https://github.com/chungharry/github-readme-stats)-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chungharry)](https://github.com/chungharry/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrychungme&layout=compact)](https://github.com/harrychungme/github-readme-stats)-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harrychungme)](https://github.com/harrychungme/github-readme-stats)
 <br />
 <br />
 
 ---
-Outside of [GitHub](https://github.com/chungharry/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
+Outside of [GitHub](https://github.com/harrychungme/), If you’d like to get in touch, feel free to say hello 👋 through any of the social links below. 
 
 
-![](https://komarev.com/ghpvc/?username=chungharry&color=blue&label=Profile+Views)
-[![Twitter: HarryChung](https://img.shields.io/twitter/follow/chungharryme?style=social)](https://twitter.com/chungharryme)
-[![GitHub HarryChung](https://img.shields.io/github/followers/chungharry?label=follow&style=social)](https://github.com/chungharry)
+![](https://komarev.com/ghpvc/?username=harrychungme&color=blue&label=Profile+Views)
+[![Twitter: HarryChung](https://img.shields.io/twitter/follow/harrychungme?style=social)](https://twitter.com/harrychungme)
+[![GitHub HarryChung](https://img.shields.io/github/followers/harrychungme?label=follow&style=social)](https://github.com/harrychungme)
 
 
 <p><a href="https://adfiinc.com">🌐 Check out my company website</a></p>
@@ -36,7 +36,7 @@ Outside of [GitHub](https://github.com/chungharry/), If you’d like to get in t
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 
 <!--
-**chungharry/chungharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harrychungme/harrychungme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
